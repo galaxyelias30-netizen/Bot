@@ -38,4 +38,4 @@ async def on_ready():
     else:
         print("❌ Kanal nicht gefunden!")
 
-bot.run("MTUxMjU2ODg0MjM2OTM3MjI0MQ.Gdt0OJ.Olrp3Dgowj6v9fVxoVf-uMvlqacGEcodH3u4JI")
+bot.run("MTUxMjU2ODg0MjM2OTM3MjI0MQ.G8h1NG.0HbxSA4OviqMsiZtRr-hmMAVDKkZKMb7OTkOgE")
